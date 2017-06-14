@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+README.md
+node_modules/
+npm-debug.log
+package.json
+public/
+src/
+yarn.lock
