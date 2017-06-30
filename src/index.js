@@ -7,7 +7,7 @@ import thunk from 'redux-thunk';
 import {composeWithDevTools} from 'redux-devtools-extension';
 import {browserHistory} from 'react-router';
 import {syncHistoryWithStore} from 'react-router-redux'
-import Provider from 'react-redux';
+import {Provider} from 'react-redux';
 import {Router, Route} from 'react-router';
 
 import reducers from 'reducers';
